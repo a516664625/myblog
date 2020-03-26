@@ -1,0 +1,7 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple/
+Collecting django-reversion
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/d9/c2/67e6fd0b67e1283e7608e5798ba5e78c842a0e25af80038d4913cf0d18ea/django_reversion-3.0.7-py3-none-any.whl (84 kB)
+Requirement already satisfied: django>=1.11 in f:\environment\venv\newblog\lib\site-packages (from django-reversion) (2.1)
+Requirement already satisfied: pytz in f:\environment\venv\newblog\lib\site-packages (from django>=1.11->django-reversion) (2019.3)
+Installing collected packages: django-reversion
+Successfully installed django-reversion-3.0.7
